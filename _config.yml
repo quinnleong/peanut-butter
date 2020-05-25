@@ -1,1 +1,5 @@
 title: Title
+
+collections:
+  reading:
+    output: true

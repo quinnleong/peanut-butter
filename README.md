@@ -21,7 +21,7 @@ Fork this repo and then clone it. You can then develop your site within that new
 
 #### Available Layouts
 - Reading (for book reviews/notes)
-  - Include `stars` (from 1-5) in the front-matter
+  - Include `stars` (from 1-5) and `author` in the front-matter
 - Post (for general writing/blog posts)
 - About
 - Projects
