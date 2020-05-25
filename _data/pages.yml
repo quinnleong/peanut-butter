@@ -1,0 +1,13 @@
+pages:
+
+- title: Reading
+  url: /reading/
+
+- title: Writing
+  url: /writing/
+
+- title: About
+  url: /about/
+
+- title: Projects
+  url: /projects/
